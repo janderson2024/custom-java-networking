@@ -1,2 +1,6 @@
-# custom-java-networking
-Built a custom java networking framework for future use. Used blocking i/o with Threads instead of non-blocking.
+#Custom Java Networking
+
+Uses multiThreading and sockets to create a networking framework
+
+
+#TODO: add explanation here
